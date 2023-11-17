@@ -15,7 +15,7 @@ MonoBehaviour:
   version: 1
   sku: 
   packageName: AlienSettlement
-  thumbnail: {fileID: 2800000, guid: e33c1e2f76a634be291516f3c0c4cbf8, type: 3}
+  thumbnail: {fileID: 2800000, guid: 7a4e0576e33a2cb498baf37b4a461523, type: 3}
   savedProjectSettings: {fileID: 0}
   worldID: 
   scene: {fileID: 102900000, guid: 79f9752ea56696345ab35a8ddc3b774f, type: 3}
