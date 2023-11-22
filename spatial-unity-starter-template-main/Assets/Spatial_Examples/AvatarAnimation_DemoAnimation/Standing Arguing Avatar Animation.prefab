@@ -44,5 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17bb55b113ebe4f6c88f55c6212ca6e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
   targetClip: {fileID: -203655887218126122, guid: 9b1ac57c8d10c4e908f9b064112602c6,
     type: 3}

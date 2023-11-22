@@ -16,9 +16,10 @@ MonoBehaviour:
   sku: 
   packageName: AlienSettlement
   thumbnail: {fileID: 2800000, guid: 7a4e0576e33a2cb498baf37b4a461523, type: 3}
-  savedProjectSettings: {fileID: 0}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
   worldID: 
-  scene: {fileID: 102900000, guid: 79f9752ea56696345ab35a8ddc3b774f, type: 3}
+  scene: {fileID: 102900000, guid: b380f225209754f4fa22202f540533ae, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
   settings:

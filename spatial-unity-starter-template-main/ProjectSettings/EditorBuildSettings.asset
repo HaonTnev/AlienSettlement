@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AlienSettlement/AlienSettlement_Scene.unity
+    guid: 79f9752ea56696345ab35a8ddc3b774f
   m_configObjects: {}
