@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4936464318496538561}
   - component: {fileID: 3819196009886511320}
   m_Layer: 6
-  m_Name: Alien_2
+  m_Name: Alien_2_24f4e9cfa2a3d33f5220b98e7913f87d
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

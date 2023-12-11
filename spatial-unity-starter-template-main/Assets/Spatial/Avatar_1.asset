@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Avatar_1
   m_EditorClassIdentifier: 
   version: 0
-  sku: 
+  sku: 6569d0e287561b75386f6410
   packageName: Avatar_1
   thumbnail: {fileID: 2800000, guid: ac5c61475abbb634892f1abb491af367, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,

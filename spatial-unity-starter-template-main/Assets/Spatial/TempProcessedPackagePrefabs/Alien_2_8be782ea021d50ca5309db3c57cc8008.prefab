@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4936464318496538561}
   - component: {fileID: 3819196009886511320}
   m_Layer: 6
-  m_Name: Alien_2
+  m_Name: Alien_2_8be782ea021d50ca5309db3c57cc8008
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -119,7 +119,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7885868916703336344}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0.454, z: 0}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
