@@ -6,7 +6,7 @@ TerrainLayer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Layer_aerial_rocks
+  m_Name: layer_aerial_rocks
   m_DiffuseTexture: {fileID: 2800000, guid: f1cb3608b34669648b1d99bac244fc65, type: 3}
   m_NormalMapTexture: {fileID: 2800000, guid: f38a2b62cf8c19141abf73b305c054d1, type: 3}
   m_MaskMapTexture: {fileID: 2800000, guid: 556bafbecc7427243b514b27b0e347a1, type: 3}
