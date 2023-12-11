@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Spire top POI
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-1454.499,"y":-174.7509},"zoom":1.0,"elements":[{"defaultValues":{"questRef":null,"taskID":{"$content":1,"$type":"System.UInt32"}},"position":{"x":-1438.0,"y":-269.0},"guid":"f95e884c-e61b-4378-97ae-ee49366fbfe9","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.CompleteSpatialQuestTaskNode","$id":"9"},{"coroutine":false,"defaultValues":{"triggerRef":null},"position":{"x":-1881.0,"y":-254.0},"guid":"eb544bbd-9689-4a58-90e1-aa5b4d29b733","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.SpatialTriggerEventOnEnter","$id":"11"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"Quest","$type":"System.String"}},"position":{"x":-1823.0,"y":-113.0},"guid":"70b7eae3-0e49-4c72-8701-ee9a1d64cf51","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"13"},{"sourceUnit":{"$ref":"11"},"sourceKey":"trigger","destinationUnit":{"$ref":"9"},"destinationKey":"inputTrigger","guid":"f92317f2-9b97-4f55-9714-196a5589e2d3","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"value","destinationUnit":{"$ref":"9"},"destinationKey":"questRef","guid":"247f1b70-fe9c-4d2a-8978-662e176cdb0c","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
