@@ -9,7 +9,7 @@ TerrainLayer:
   m_Name: layer_coral
   m_DiffuseTexture: {fileID: 2800000, guid: 62f3bb9b01ed51f4587194979edb3749, type: 3}
   m_NormalMapTexture: {fileID: 2800000, guid: d4ced19eb73cd9346b5be750b7acc4e8, type: 3}
-  m_MaskMapTexture: {fileID: 2800000, guid: c66e706135a062c428955334a605f645, type: 3}
+  m_MaskMapTexture: {fileID: 0}
   m_TileSize: {x: 15, y: 16}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}
@@ -17,6 +17,6 @@ TerrainLayer:
   m_Smoothness: 0
   m_NormalScale: -6.03
   m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 0}
-  m_DiffuseRemapMax: {x: 1, y: 1, z: 1, w: 1}
+  m_DiffuseRemapMax: {x: 0.25882354, y: 0.23529413, z: 0.34901962, w: 1}
   m_MaskMapRemapMin: {x: 0, y: 0, z: 0, w: 0}
   m_MaskMapRemapMax: {x: 1, y: 1, z: 1, w: 1}
